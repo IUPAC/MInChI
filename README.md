@@ -1,1 +1,1 @@
-# MInChI
+# MInChI: Mixtures InChI
