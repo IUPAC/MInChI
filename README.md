@@ -6,7 +6,8 @@ TBD
 
 ## Specification
 
-TBD
+* Specification documentation: [DRAFT](https://docs.google.com/document/d/1X3Mj1iyEPVBfQhDxn8r6ClKsGqhhiKxzuNC9FuTip84/edit?usp=sharing)
+* Pilot implementation reference: [Capturing mixture composition: an open machine-readable format for representing mixed substances](https://doi.org/10.1186/s13321-019-0357-4), A.M. Clark, L.R. McEwen, P. Gedeck, B.A. Bunin, *Journal of Cheminforamtics 2019* 
 
 ## Validation Data
 
