@@ -23,3 +23,13 @@ A preliminary collection of mixtures has been selected as a candidate for the MI
 
 * Mixture Editor: <https://github.com/cdd/mixtures>
 * MInChI Live Demo: <http://molmatinf.com/minchidemo> and its source on [GitHub](https://github.com/IUPAC/MInChI_demo)
+
+## Presentations
+
+* **2019**: Capturing mixtures — bringing informatics to the world of practical chemistry 
+<https://www.youtube.com/watch?v=PcAJ4HoRnFU>
+* **2020**: Mixtures: informatics for formulations and consumer products 
+<https://www.youtube.com/watch?v=aSQEVKKnrWw> (starts at 4:13:00)
+* **2021**: Mixtures as first class citizens in the realm of informatics 
+<https://www.youtube.com/watch?v=0ILc0owuEzQ> (starts at 1:05:00)
+* **2021**: Mixtures InChI: A story of how standards drive upstream products (_release in progress_)
