@@ -21,7 +21,7 @@ A preliminary collection of mixtures has been selected as a candidate for the MI
 
 ## Links
 
-* Mixture Editor: <https://github.com/cdd/mixtures>
+* Mixture Data Editor: <https://github.com/cdd/mixtures>
 * MInChI Live Demo: <http://molmatinf.com/minchidemo> and its source on [GitHub](https://github.com/IUPAC/MInChI_demo)
 
 ## Presentations
