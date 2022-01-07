@@ -33,3 +33,4 @@ A preliminary collection of mixtures has been selected as a candidate for the MI
 * **2021**: Mixtures as first class citizens in the realm of informatics 
 <https://www.youtube.com/watch?v=0ILc0owuEzQ> (starts at 1:05:00)
 * **2021**: Mixtures InChI: A story of how standards drive upstream products (_release in progress_)
+* **2021**: Chemotion/NFDI4Chem Stammtisch (09/24/21) MInChI – InChI for Mixtures <https://youtu.be/Jm3CQYDKEVg>
